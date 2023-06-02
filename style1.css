@@ -1,0 +1,41 @@
+h5{
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    color:cyan;
+    background-color:grey;
+    text-align: left;
+}
+h2{
+    font-size: 25px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: cornsilk;
+    background-color:green;
+    text-align: left;
+}
+a{
+    font-size: 30px;
+    color: darkgrey;
+    background-color: antiquewhite;
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h4{
+    font-size:40px;
+    font-family: 'Courier New', Courier, monospace;
+    color:black;
+    background-color:skyblue;
+    text-align: left;
+}
+h6{
+    font-size:40px;
+    color:blue;
+}
+h3{
+    font-size: 25px;
+    font-family: fantasy;
+    color:cyan;
+}
+h1{
+    font-size:25px;
+    color:blue;  
+}
